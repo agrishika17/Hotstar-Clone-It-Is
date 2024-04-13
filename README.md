@@ -1,4 +1,4 @@
-# Disney+ Hotstar-Clone
+# Disney+ Hotstar-Clone-It-Is
 Welcome to this repository containing a front-end clone of the Disney+ Hotstar website, built using pure HTML, CSS, and JavaScript.
 
 # Installation
