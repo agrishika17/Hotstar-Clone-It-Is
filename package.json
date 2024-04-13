@@ -1,5 +1,5 @@
 {
-  "name": "disney-hotstar-harshil-rajpara",
+  "name": "disney-hotstar",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
@@ -9,15 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codesandbox-app/static-template.git"
+    "url": "git+https://github.com/agrishika17/Hotstar-Clone-It-Is.git"
   },
   "keywords": [],
-  "author": "Ives van Hoorne",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/codesandbox-app/static-template/issues"
-  },
-  "homepage": "https://github.com/codesandbox-app/static-template#readme",
+  "author": "Rishika",
+  "license": "ISC",
   "devDependencies": {
     "serve": "^11.2.0"
   }
