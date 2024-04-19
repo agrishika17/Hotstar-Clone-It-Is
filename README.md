@@ -2,6 +2,10 @@
 Welcome to this repository containing a front-end clone of the Disney+ Hotstar website, built using pure HTML, CSS, and JavaScript.
 
 
+## Preview
+[https://agrishika17.github.io/Hotstar-Clone-It-Is]
+
+
 ## Getting Started
 
 To experience the Disney+ Hotstar Clone, follow these steps:
